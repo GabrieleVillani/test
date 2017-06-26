@@ -1,0 +1,26 @@
+{
+  "events": [
+      {
+        "title" : "ciao",
+        "body" : "<div> ciao </div>",
+        "data" : "1498503600",
+        "eventbrite"  :" event 1",
+        "id"  :  "1",
+        "schedule" : "schedule1",
+        "author" : "gino",
+        "locandina" : "",
+        "cover" : ""
+        },
+        {
+        "title" : "ciao2",
+        "body" : "<div> ciao2 </div>",
+        "data" : "1498676400",
+        "eventbrite"  :" event 2",
+        "id"  :  "2",
+        "schedule" : "schedule2",
+        "author" : "gigi",
+        "locandina" : "",
+        "cover" : ""
+        }
+    ]
+}
